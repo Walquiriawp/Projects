@@ -2,6 +2,7 @@
 
 Desafio DIO: Construindo um app usando o sensor de movimento com React Native. O app foi desenvolvido utilizando a ferramenta Expo
 
-![1654045661804](https://user-images.githubusercontent.com/47044643/171308260-88a1a756-0580-44d9-9a53-47dd723caf09.jpg)
-![1654045661792](https://user-images.githubusercontent.com/47044643/171308274-64ec8d3c-ea4a-475d-975f-82171ddd67f5.jpg)
+![Screenshot_2022-05-31-22-04-59-790_host exp exponent](https://user-images.githubusercontent.com/47044643/171311039-28d9641c-39b1-42e2-b582-6bb495105226.jpg)
+
+
 
